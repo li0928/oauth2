@@ -1,8 +1,8 @@
 druid:
-      url: jdbc:mysql://mysql:3306/zuul_oauth2?characterEncoding=utf8&useSSL=true
+      url: jdbc:mysql://mysql:3306/zuul_oauth2?characterEncoding=utf8
       driver-class: com.mysql.jdbc.Driver
       username: root
-      password: 111111
+      password: root
       initial-size: 1
       min-idle: 1
       max-active: 20
